@@ -1,5 +1,12 @@
 # @backstage/plugin-scaffolder
 
+## 1.17.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-scaffolder-react@1.7.1
+
 ## 1.17.0
 
 ### Minor Changes

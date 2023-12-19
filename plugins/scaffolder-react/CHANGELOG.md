@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-react
 
+## 1.7.1
+
+### Patch Changes
+
+- c28f281: Scaffolder form now shows a list of errors at the top of the form.
+
 ## 1.7.0
 
 ### Minor Changes
