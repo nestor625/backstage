@@ -29,6 +29,7 @@ metadata:
       title: Alerts
       icon: alert
   annotations:
+    backstage.io/kubernetes-id: dice-roller
     backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
 spec:
   type: service
